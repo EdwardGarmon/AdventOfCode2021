@@ -1,0 +1,6 @@
+{
+    "ocaml.sandbox": {
+        "kind": "global"
+    },
+    "python.pythonPath": "/home/edwardg/.conda/envs/ML/bin/python"
+}
